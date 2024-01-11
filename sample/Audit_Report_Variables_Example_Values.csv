@@ -1,0 +1,24 @@
+key,value
+company_name,ABC Corporation
+audit_date,2024-01-01
+total_assets,"₩10,000,000"
+total_liabilities,"₩5,000,000"
+net_assets,"₩5,000,000"
+total_revenue,"₩15,000,000"
+operating_expenses,"₩3,000,000"
+net_income,"₩2,000,000"
+key_points,주요 관리 포인트
+recommendations,개선 추천사항
+current_ratio,1.5
+debt_ratio,0.5
+roi,10%
+internal_control_evaluation,양호
+risk_management_evaluation,중위험
+legal_compliance_status,법규 준수
+regulatory_requirements_fulfillment,규제 요건 충족
+overall_evaluation,우수
+further_actions,추가 조치 필요사항
+detailed_information,상세 내역 설명
+additional_notes,추가 비고
+appendix,부록 내용
+references,참고문헌
